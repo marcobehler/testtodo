@@ -14,7 +14,12 @@ class TesttodoApplicationTests {
 
 	@Test
 	public void bla() {
-		assertEquals(1,2);
+		assertEquals(2,2);
+	}
+
+	@Test
+	public void bla2() {
+		assertEquals(2,2);
 	}
 
 }
